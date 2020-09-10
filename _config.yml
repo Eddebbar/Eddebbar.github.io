@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yassir Eddebbar / Academic Page"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yassir Eddebbar"
 description              : &description "personal description"
