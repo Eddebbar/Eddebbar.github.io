@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yassir Eddebbar"
-description              : &description "Postdoc at Scripps"
+description              : &description "Postdoc at Scripps Institution of Oceanography"
 url                      : https://eddebbar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eddebbar/eddebbar.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yassir Eddebbar"
   avatar           : "Sproul_Trip.jpeg"
-  bio              : "Postdoc at Scripps"
+  bio              : "Postdoc at Scripps Institution of Oceanography"
   location         : "Scripps"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
