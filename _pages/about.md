@@ -17,7 +17,6 @@ The ocean carbon cycle is tightly intertwined with climate and ocean circulation
 1. How will ocean carbon uptake change in the future?  
 1. What controls the ocean carbon uptake efficiency?
 
-<br><img src='/images/SST.png'>
 
 <br><img src='/images/Depth.png'>
 
@@ -25,4 +24,5 @@ The ocean carbon cycle is tightly intertwined with climate and ocean circulation
 I am working on the following projects. 
 
 <br><img src='/images/Topography.png'>
+<br><img src='/images/SST.png'>
 
